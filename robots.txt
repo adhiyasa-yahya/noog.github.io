@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://adhiyasa-yahya.github.io/retro-miner/sitemap.xml
